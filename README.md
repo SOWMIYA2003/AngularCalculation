@@ -267,12 +267,15 @@ export class CuboidComponent{
 ![Output](./ag0.png)
 ### Calculation 1 - Area of Rectangle:
 ![Output](./ag1rec.png)
+#### With different inputs:
 ![Output](./ag1a.png)
 ### Calculation 2 - Volume of Cylinder:
 ![Output](./agcy1.png)
+#### With different inputs:
 ![Output](./agcy1a.png)
 ### Calculation 3 - Volume of Cuboid:
 ![Output](./agcu1.png)
+#### With different inputs:
 ![Output](./agcu1a.png)
 
 
