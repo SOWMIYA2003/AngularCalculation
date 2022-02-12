@@ -3,7 +3,7 @@
 # Web Page for Mathematical Calculations using Angular
 
 ## AIM:
-To design a dynamic website to perform mathematical calculations using Angular Framwork
+To design a dynamic website to perform mathematical calculations using Angular Framwork.
 
 ## DESIGN STEPS:
 
@@ -13,7 +13,7 @@ Requirement collection.
 
 ### Step 2:
 
-Creating the layout using HTML and CSS in component.html file
+Creating the layout using HTML and CSS in component.html file .
 
 ### Step 3:
 
